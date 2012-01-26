@@ -48,5 +48,3 @@ Not yet :D
 
 = 0.1 =
 * Create a slideshow background with transition and provide 10 images
-
-== Arbitrary section ==
